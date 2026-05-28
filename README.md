@@ -1,4 +1,4 @@
-# SI 320 Graphic Design - Homework 01: Images Curation
+# SI 320 Graphic Design 
 
 ## Course
 SI 320 Graphic Design and Communications
